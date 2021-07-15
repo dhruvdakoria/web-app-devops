@@ -6,6 +6,8 @@ The Application Engineering team has been developing a custom WooCommerce-based 
 ## Solution - 
 ![Architecture Diagram](./Architecture-Diagram.png)
 
+URL - http://wordpress-2071899879.us-east-1.elb.amazonaws.com/
+
 There are 3 major sections in this repo -
 
 1) infra-terraform directory - contains terraform code for deploying the AWS Infrastructure.
