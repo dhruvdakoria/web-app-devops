@@ -1,0 +1,2 @@
+infra-terraform/variables.tf
+new-wordpress-docker-compose/db_data*
