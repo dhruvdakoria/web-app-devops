@@ -7,6 +7,6 @@ ENV WORDPRESS_DB_HOST=127.0.0.1 \
     WORDPRESS_DB_NAME=wordpress \
     WORDPRESS_TABLE_USER=admin
 
-# COPY plugins/ /var/www/html/wp-content/plugins
-# COPY themes/ /var/www/html/wp-content/themes
-# COPY uploads/ /var/www/html/wp-content/uploads
+COPY wordpress/wp-content/plugins/ /var/www/html/wp-content/plugins
+COPY wordpress/wp-content/themes/ /var/www/html/wp-content/themes
+COPY wordpress/wp-content/uploads/ /var/www/html/wp-content/uploads
