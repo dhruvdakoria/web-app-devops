@@ -1,6 +1,6 @@
 # Devops Wordpress Woocomerce Web App on AWS
 
-## Background - 
+## Background -  
 The Application Engineering team has been developing a custom WooCommerce-based product which will need to be deployed for this initiative. As a member of the Site Reliability Engineering team your job will be to create the cloud-based infrastructure for supporting this deployment. You will need to create a reference architecture and implement it using modern IaC techniques.
 
 ## Solution - 
